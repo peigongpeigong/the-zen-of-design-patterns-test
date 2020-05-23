@@ -17,4 +17,4 @@
   
   
 ####example2图例
-![avatar](../../../../../resources/images/bridge.png)
+![image](https://github.com/peigongpeigong/the-zen-of-design-patterns-test/blob/master/resources/images/bridge.png)
